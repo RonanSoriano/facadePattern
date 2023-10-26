@@ -19,3 +19,4 @@ HotelApp: The client class that uses the FrontDesk facade to access and utilize 
 
 
 # Class Diagram
+![Facade Design Pattern](https://github.com/RonanSoriano/facadePattern/assets/142371669/6db2b248-4165-49ba-991d-aed8227c4331)
